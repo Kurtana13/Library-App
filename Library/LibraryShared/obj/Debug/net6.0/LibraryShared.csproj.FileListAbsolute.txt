@@ -1,0 +1,12 @@
+D:\Github\Library-App\Library\LibraryShared\bin\Debug\net6.0\LibraryShared.deps.json
+D:\Github\Library-App\Library\LibraryShared\bin\Debug\net6.0\LibraryShared.dll
+D:\Github\Library-App\Library\LibraryShared\bin\Debug\net6.0\LibraryShared.pdb
+D:\Github\Library-App\Library\LibraryShared\obj\Debug\net6.0\LibraryShared.csproj.AssemblyReference.cache
+D:\Github\Library-App\Library\LibraryShared\obj\Debug\net6.0\LibraryShared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Library-App\Library\LibraryShared\obj\Debug\net6.0\LibraryShared.AssemblyInfoInputs.cache
+D:\Github\Library-App\Library\LibraryShared\obj\Debug\net6.0\LibraryShared.AssemblyInfo.cs
+D:\Github\Library-App\Library\LibraryShared\obj\Debug\net6.0\LibraryShared.csproj.CoreCompileInputs.cache
+D:\Github\Library-App\Library\LibraryShared\obj\Debug\net6.0\LibraryShared.dll
+D:\Github\Library-App\Library\LibraryShared\obj\Debug\net6.0\refint\LibraryShared.dll
+D:\Github\Library-App\Library\LibraryShared\obj\Debug\net6.0\LibraryShared.pdb
+D:\Github\Library-App\Library\LibraryShared\obj\Debug\net6.0\ref\LibraryShared.dll
